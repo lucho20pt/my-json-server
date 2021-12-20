@@ -5,6 +5,7 @@
 ## Use your own data
 [https://my-json-server.typicode.com/lucho20pt/my-json-server/db]
 [https://my-json-server.typicode.com/lucho20pt/my-json-server/tours]
+[https://my-json-server.typicode.com/lucho20pt/my-json-server/tabs]
 
 Fork it and change `db.json` values or create a repo with a `db.json` file.
 # my-json-server
